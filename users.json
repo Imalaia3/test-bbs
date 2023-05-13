@@ -1,1 +1,1 @@
-{"admin": "admin", "john": "password"}
+{"admin": ["admin", -1, 2009], "john": ["password", 0, 0], "mike": ["1234", 5, 0], "shaun": ["pass", 0, 0], "lolman": ["newpass", 0, 0]}

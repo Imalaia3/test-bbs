@@ -1,6 +1,7 @@
 {
     
-    "port":2023,
+    "port":2022,
     "splash":"  ______          __  ____  ____ _____\n/_  __/__  _____/ /_/ __ )/ __ ) ___/\n/ / / _ \\/ ___/ __/ __  / __  \\__ \\ \n/ / /  __(__  ) /_/ /_/ / /_/ /__/ / \n/_/  \\___/____/\\__/_____/_____/____/\n",
-    "admins":["admin"]
+    "admins":["admin","mike"],
+    "description": "A chill BBS where many programmers can hang out and talk!"
 }
